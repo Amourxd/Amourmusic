@@ -23,3 +23,5 @@ numpy
 git+https://github.com/ytdl-patched/yt-dlp
 youtube-search
 youtube-search-python
+yt-dlp
+youtube_dl
